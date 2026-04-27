@@ -32,6 +32,8 @@ Teen Mental Health Dataset (CSV)
 
 This project shows how data analysis in Excel can help understand real-world problems like mental health.
 
+https://github.com/saadali19787-commits/teen-mental-health-excel-project/blob/44b61e4f2c662d2e7d1bb01d0079f1cef73360bf/Screenshot%202026-04-27%20174600.png
+
 🔷 PROJECT OVERVIEW
 This project analyzes the impact of social media usage on:
 Mental health (anxiety, stress, depression)
